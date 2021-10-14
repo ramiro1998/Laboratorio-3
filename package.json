@@ -1,0 +1,17 @@
+{
+  "name": "laboratorio-3",
+  "version": "1.0.0",
+  "description": "Este es el laboratio 3 de computación en la nube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aws"
+  ],
+  "author": "Ramiro Redona",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1007.0"
+  }
+}
