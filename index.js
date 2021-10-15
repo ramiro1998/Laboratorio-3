@@ -3,7 +3,7 @@ const { v4: uuidv4 } = require("uuid");
 
 var dynamodb = new AWS.DynamoDB({
   apiVersion: "2012-08-10",
-  endpoint: "http://dynamodb:8000",
+  endpoint: "http://dynamobd:8000",
   region: "us-west-2",
   credentials: {
     accessKeyId: "2345",
